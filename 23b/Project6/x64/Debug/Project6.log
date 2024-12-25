@@ -1,0 +1,13 @@
+﻿  FileName.c
+C:\Users\Poluroslik M\Desktop\23\FileName.c(36,20): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[80]"
+C:\Users\Poluroslik M\Desktop\23\FileName.c(36,20): warning C4024: add_front: различные типы для формального и фактического параметров 2
+C:\Users\Poluroslik M\Desktop\23\FileName.c(50,22): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[80]"
+C:\Users\Poluroslik M\Desktop\23\FileName.c(50,22): warning C4024: add_front: различные типы для формального и фактического параметров 2
+C:\Users\Poluroslik M\Desktop\23\FileName.c(45,24): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\23\FileName.c(233,43): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[80]"
+C:\Users\Poluroslik M\Desktop\23\FileName.c(233,43): warning C4024: find: различные типы для формального и фактического параметров 2
+C:\Users\Poluroslik M\Desktop\23\FileName.c(239,23): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[80]"
+C:\Users\Poluroslik M\Desktop\23\FileName.c(239,23): warning C4024: deleate: различные типы для формального и фактического параметров 2
+C:\Users\Poluroslik M\Desktop\23\FileName.c(189,1): warning C4716: print_list: должна возвращать значение
+C:\Users\Poluroslik M\Desktop\23\FileName.c(178,1): warning C4716: add_front: должна возвращать значение
+  Project6.vcxproj -> C:\Users\Poluroslik M\Desktop\23\x64\Debug\Project6.exe
